@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Board/Task/Board-Task.iml" filepath="$PROJECT_DIR$/.idea/modules/Board/Task/Board-Task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kotlin_for_Java_Developers._Week_41.iml" filepath="$PROJECT_DIR$/.idea/Kotlin_for_Java_Developers._Week_41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rationals/Task/Rationals-Task.iml" filepath="$PROJECT_DIR$/.idea/modules/Rationals/Task/Rationals-Task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" />
+    </modules>
+  </component>
+</project>
